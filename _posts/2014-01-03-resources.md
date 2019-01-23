@@ -1,5 +1,5 @@
 ---
-title: "Texts"
+title: "Resources"
 bg: green
 color: white
 fa-icon: book
@@ -19,3 +19,7 @@ N.B.² Please take careful notice of the edition of our textbook (*Introduction 
 
 1. [Electronic Resources for Shelmerdine](http://hackettpublishing.com/Resource_Pages/Shelmerdine_IntroToLatin/exercises.html).
   * includes vocab lists, exercises, audio pronunciation guides.
+2. LATN 101 Study Packets for review:
+  * [Exam 1 Study Packet](../files/LATN101-exam1.pdf)
+  * [Exam 2 Study Packet](../files/LATN101-exam2.pdf)
+  * [Exam 3 Study Packet](../files/LATN101-exam3.pdf)
