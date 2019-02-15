@@ -17,9 +17,10 @@ N.B.² Please take careful notice of the edition of our textbook (*Introduction 
 
 ## Reference and Electronic Resources
 
-1. [Electronic Resources for Shelmerdine](http://hackettpublishing.com/Resource_Pages/Shelmerdine_IntroToLatin/exercises.html).
+1. [Curated Vocabulary List for Chp. 1-29](https://drive.google.com/file/d/1sW0YSy5aD3lYUOKPksf3S6XroRq_zTYm/view?usp=sharing)
+2. [Electronic Resources for Shelmerdine](http://hackettpublishing.com/Resource_Pages/Shelmerdine_IntroToLatin/exercises.html).
   * includes vocab lists, exercises, audio pronunciation guides.
-2. LATN 101 Study Packets for review:
+3. LATN 101 Study Packets for review:
   * [Exam 1 Study Packet](https://dlibatique.github.io/LATN102/files/LATN101-exam1.pdf)
   * [Exam 2 Study Packet](https://dlibatique.github.io/LATN102/files/LATN101-exam1.pdf)
   * [Exam 3 Study Packet](https://dlibatique.github.io/LATN102/files/LATN101-exam1.pdf)
