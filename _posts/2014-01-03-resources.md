@@ -24,3 +24,7 @@ N.B.² Please take careful notice of the edition of our textbook (*Introduction 
   * [Exam 1 Study Packet](https://dlibatique.github.io/LATN102/files/LATN101-exam1.pdf)
   * [Exam 2 Study Packet](https://dlibatique.github.io/LATN102/files/LATN101-exam1.pdf)
   * [Exam 3 Study Packet](https://dlibatique.github.io/LATN102/files/LATN101-exam1.pdf)
+4. *Aeneid* Resources:
+  * [*Aeneid* 2 translation from Poetry in Translation](https://www.poetryintranslation.com/PITBR/Latin/VirgilAeneidII.php) (ONLY AFTER COMING UP WITH YOUR OWN TRANSLATION FIRST!)
+  * [Whitaker's Words](http://archives.nd.edu/words.html) (ONLY IN CASE OF EMERGENCY!)
+  * [Allen & Greenough in DCC](http://dcc.dickinson.edu/allen-greenough/#tabs-2)
